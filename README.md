@@ -8,7 +8,6 @@ I am Indah Yunita, a recent graduate Informatics who have interest in  data and 
 
 
 ### :computer: What Can I do?
-- UX Research and design
 - Data Analysis
 - Image Processing
 
